@@ -1,0 +1,72 @@
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csprojAssemblyReference.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\AKBUZ\source\repos\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+D:\proje teslim\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+D:\proje teslim\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe.config
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.AssemblyReference.cache
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form2.resources
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.dll
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.dll
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.dll
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.presentation.dll
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.xml
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.xml
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.xml
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.presentation.xml
+C:\Users\Lelouch\Desktop\Otobus1\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CopyComplete
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.AssemblyReference.cache
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.admin_panel.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.biletal.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.bilet_iptal.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form1.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Form2.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.koltuk_Sec.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.Properties.Resources.resources
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.GenerateResource.cache
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.exe
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.pdb
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe.config
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.exe
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\otobus_otomasyon.pdb
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.dll
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.dll
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.dll
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.presentation.dll
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.xml
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.xml
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.xml
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\bin\Debug\zxing.presentation.xml
+C:\Users\Lelouch\Desktop\Yeni klasör\otobus_otomasyon\otobus_otomasyon\obj\Debug\otobus_otomasyon.csproj.CopyComplete
